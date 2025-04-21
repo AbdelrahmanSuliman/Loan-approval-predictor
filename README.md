@@ -2,6 +2,7 @@
 
 A simple web application built with Streamlit to predict loan approval status based on user input, using a model trained on historical loan data.
 
+[Deployed application link](https://loan-approval-predictor-fe27tcurj59lm22dgl9pnv.streamlit.app/)
 ---
 
 ## Tech Stack
